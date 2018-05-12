@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7890
     wikipedia: http://de.wikipedia.org/wiki/Richard_Beer-Hofmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18232#Gedenkrede-auf-Wolfgang-Amade-Mozart
 gutenberg_bookshelf:
 - DE Prosa
 - Music
