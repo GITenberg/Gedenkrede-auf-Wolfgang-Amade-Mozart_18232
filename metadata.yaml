@@ -1,0 +1,31 @@
+_repo: Gedenkrede-auf-Wolfgang-Amade-Mozart_18232
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beer-Hofmann, Richard
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '7890'
+    url: http://www.gutenberg.org/2009/agents/7890
+    wikipedia: http://de.wikipedia.org/wiki/Richard_Beer-Hofmann
+description: ''
+gutenberg_bookshelf:
+- DE Prosa
+- Music
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18232'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mozart, Wolfgang Amadeus, 1756-1791'
+- !lcc 'ML'
+- !lcsh 'Speeches, addresses, etc.'
+title: Gedenkrede auf Wolfgang Amade Mozart
+url: http://www.gutenberg.org/ebooks/18232
